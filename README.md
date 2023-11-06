@@ -1,8 +1,8 @@
-# Coffee-shop
+# Coffee Shop Sales Analysis in Excel
 
 Coffee Shop Sales data has already been cleaned and made available to the public by Maven Analytics. 
 
-In this Excel interactive dashboard, I focused on answering/providing insights into the following questions from the data:
+### In this Excel interactive dashboard, I focused on answering/providing insights into the following questions from the data:
 1. How have Maven Roasters sales trended over time?
 2. Which days of the week are busiest?
 3. Which products are sold most and least often? Which drives the most revenue for the business?
