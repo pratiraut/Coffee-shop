@@ -2,11 +2,11 @@
 
 Maven Analytics has already cleaned and made the fictional Coffee Shop Sales data in three different locations in NYU available to the public. 
 
-To better understand purchase behavior and streamline operations, I collected transactional data from Jan-Jun 2023. The goal is to transform the data into a dynamic dashboard that Frenchie owner can used to identify trends, patterns, and opportunities for business.
+To better understand purchase behavior and streamline operations, I collected transactional data from Jan-Jun 2023. The goal is to transform the data into a dynamic dashboard that Frenchie owner can use to identify trends, patterns, and opportunities for business.
 
 Excel Tools: Pivot Table, Pivot Chart, VLOOKUP, HLOOKUP, VBA
 
-Download Dataset: 
+[Download Dataset and Dashboard](https://github.com/pratiraut/Coffee-shop/blob/main/Coffee%20Shop%20Sales.xlsx)
 
 ### In this Excel interactive dashboard, I focused on answering/providing insights into the following questions from the data:
 1. How have Maven Roasters sales trended over time?
