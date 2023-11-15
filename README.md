@@ -21,5 +21,6 @@ Download Dataset:
 
 
 
-   
+   ![Screenshot (246)](https://github.com/pratiraut/Coffee-shop/assets/146583441/58c20b74-9867-4cac-ae52-e1dc0d9842b7)
+
 
